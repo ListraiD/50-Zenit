@@ -5,7 +5,7 @@
 
 С ПОМОЩЬЮ ЧЕГО СОЗДАВАЛСЯ
 
-Билиотек bootstrap https://getbootstrap.com/docs/5.0/getting-started/introduction/ для красоты Языка програмирования php для базы данных HTML для верстки сайта Оформление дизайна для верстки проходило на https://www.figma.com/file/ska0YCDE6GBe42qQEFw5KW/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD-%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D1%8F-IT?node-id=0%3A1
+Билиотек bootstrap https://getbootstrap.com/docs/5.0/getting-started/introduction/ для красоты Языка програмирования php для базы данных HTML для верстки сайта Оформление дизайна для верстки проходило на https://www.figma.com/file/XK90mBn5gsuUkzceEIopRj/%D0%A4%D0%98%D0%9D%D0%90%D0%9B-%D0%A5%D0%90%D0%9A%D0%90%D0%A2%D0%9E%D0%9D?node-id=135%3A2
 
 ОСНОВНЫЕ ФУККЦИИ САЙТА
 
